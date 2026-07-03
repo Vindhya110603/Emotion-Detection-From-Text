@@ -63,14 +63,13 @@ Emotion-Detection-from-Text/
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](Home_page.png)
+<img src="Home_page.png" width="700">
 
 ### 😊 Prediction Result
-![Prediction Result](Prediction_result.png)
+<img src="Prediction_result.png" width="700">
 
 ### 📊 Prediction Probability
-![Probability Chart](Probability_chart.png)
-
+<img src="Probability_chart.png" width="700">
 
 ## 🎯 Future Improvements
 
