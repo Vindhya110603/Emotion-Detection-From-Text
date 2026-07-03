@@ -52,10 +52,6 @@ Emotion Detection from Text is a Machine Learning and Natural Language Processin
 
 Emotion-Detection-from-Text/
 
-## 📂 Project Structure
-
-Emotion-Detection-from-Text/
-
 ├── app.py
 ├── text_emotion.pkl
 ├── final_project.ipynb
