@@ -66,7 +66,7 @@ Emotion-Detection-from-Text/
 <img src="Home_page.png" width="700">
 
 ### 😊 Prediction Result
-<img src="Prediction_result.png" width="700">
+<img src="Prediction _result.png" width="700">
 
 ### 📊 Prediction Probability
 <img src="Probability_chart.png" width="700">
